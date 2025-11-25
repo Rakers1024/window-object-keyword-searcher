@@ -60,6 +60,7 @@
 │ window.api: 键名匹配         │  ← 显示匹配项
 │ window.data.url: "https://..." │
 └─────────────────────────────[object Object] 搜索原理
+```
 
 ### 搜索流程
 
